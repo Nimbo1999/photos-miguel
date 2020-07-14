@@ -1,0 +1,20 @@
+{
+  "name": "photos-miguel",
+  "version": "0.0.1",
+  "description": "Projeto da galeria do miguel. Criado por Matheus Lopes e Gabriel Lopes.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nimbo1999/photos-miguel"
+  },
+  "author": "Matheus de Oliveira Lopes <matlopes1999@gmail.com (https://github.com/Nimbo1999)>",
+  "contributors": [
+    {
+      "name": "Gabriel de Oliveira Lopes",
+      "email": "lopesgabriel0199@gmail.com",
+      "url": "https://gabriel.devlopes.dev"
+    }
+  ],
+  "license": "MIT",
+  "private": true
+}
